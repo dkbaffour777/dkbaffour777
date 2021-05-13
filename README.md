@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full-Stack Web Development
       at an Online Coding BootCamp by University of Arizona
 - 💞️ I’m looking to collaborate on HTML/CSS/JavaScript/Git/React/NodeJS/MySQL/MERN
-- 📫 How to reach me on instagram, @danielb__7
+- 📫 How to reach, (602)-571-9734. Respond quickly by text.
 
 <!---
 dkbaffour777/dkbaffour777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
