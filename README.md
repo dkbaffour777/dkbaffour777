@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dkbaffour777
 - 👀 I’m interested in problem solving
 - 🌱 I’m currently learning Full-Stack Web Development
-      at an Online Coding BootCamp by University of Arizona
+      in an Online Coding BootCamp from the University of Arizona
 - 💞️ I’m looking to collaborate on HTML/CSS/JavaScript/Git/React/NodeJS/MySQL/MERN
 - 📫 How to reach, (602)-571-9734. Respond quickly by text.
 
