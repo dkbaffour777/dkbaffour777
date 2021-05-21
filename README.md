@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Full-Stack Web Development
       in an Online Coding BootCamp from the University of Arizona
 - 💞️ I’m looking to collaborate on HTML/CSS/JavaScript/Git/React/NodeJS/MySQL/MERN
-- 📫 How to reach, (602)-571-9734. Respond quickly by text.
+- 📫 How to reach me: 
+      - Email - dkbaffour777@gmail.com 
+      - Phone (602)-571-9734. Respond quickly by text
 
 <!---
 dkbaffour777/dkbaffour777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
