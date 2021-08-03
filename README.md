@@ -4,7 +4,7 @@
       in an Online Coding BootCamp from the University of Arizona
 - 💞️ I’m looking to collaborate on HTML/CSS/JavaScript/Git/React/NodeJS/MySQL/MERN
 - 📫 How to reach me: 
-      - Email - dkbaffour777@gmail.com 
+      - Email - dkbaffour777career@gmail.com 
       - Phone (602)-571-9734. Respond quickly by text
 
 <!---
