@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dkbaffour777
 - 👀 I’m interested in problem solving
-- 🌱 I’m currently learning Full-Stack Web Development
-      in an Online Coding BootCamp at the University of Arizona
+- 🌱 Full-Stack Web Developer
 - 💞️ I’m looking to collaborate on HTML/CSS/JavaScript/Git/React/NodeJS/MySQL/MERN
 - 📫 How to reach me: 
   - Email: dkbaffour777career@gmail.com 
