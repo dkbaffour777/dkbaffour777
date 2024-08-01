@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dkbaffour777
-- 👀 I’m interested in problem solving
-- 🌱 Certified Full Stack Web Developer by the University of Arizona
-- 💞️ I’m looking to collaborate on HTML/CSS/JavaScript/Git/React/NodeJS/MySQL/MERN
+- 👀 Passionate about solving complex problems through technology
+- 🌱 Certified Full Stack Web Developer and Software Engineer with a focus on scalable, efficient, and user-friendly solutions
+- 💞️ Open to collaborations on projects involving software development, including web applications, backend systems, and databases.
 - 📫 How to reach me: 
   - Email: dkbaffour777career@gmail.com 
   - Phone: (602)-571-9734. (Respond quickly by text)
